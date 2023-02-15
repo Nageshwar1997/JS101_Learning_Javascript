@@ -1,1 +1,2 @@
-# JS101_Learning_Javascript
+# JS-101_Learning_Javascript/Introduction_to_Javascript_(Variables)
+# JS-101_Learning_Javascript/Mathematical_Operator
